@@ -73,11 +73,10 @@ npx prettier --write .
 
 ## Evidence
 
-This project includes screenshots in the `screenshots/` folder demonstrating:
+This project includes screenshots in `screenshots/` folder demonstrating:
 - Production dependencies installation
 - Development dependencies installation
 - package.json configuration
-- node_modules directory structure
 - Overall project structure
 
 ## Scripts
