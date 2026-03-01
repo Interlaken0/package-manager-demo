@@ -79,6 +79,18 @@ This project includes screenshots in `screenshots/` folder demonstrating:
 - package.json configuration
 - Overall project structure
 
+For detailed information about what was installed, what each package does, and complete installation evidence, see [INSTALLATION_SUMMARY.md](INSTALLATION_SUMMARY.md).
+
+## Package Management Demonstrated
+
+This project demonstrates comprehensive package management practices:
+- ✅ Production dependency installation (express, lodash)
+- ✅ Development dependency installation (eslint, jest, prettier)
+- ✅ Dependency categorisation and separation
+- ✅ Package version management
+- ✅ Transitive dependency resolution
+- ✅ Complete installation evidence with screenshots
+
 ## Scripts
 
 - `npm test` - Run JavaScript tests
